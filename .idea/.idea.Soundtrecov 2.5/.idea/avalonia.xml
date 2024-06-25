@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Soundtrecov 2.5/AdminWindow.axaml" value="Soundtrecov 2.5/Soundtrecov 2.5.csproj" />
+        <entry key="Soundtrecov 2.5/App.axaml" value="Soundtrecov 2.5/Soundtrecov 2.5.csproj" />
+        <entry key="Soundtrecov 2.5/EditWindow.axaml" value="Soundtrecov 2.5/Soundtrecov 2.5.csproj" />
+        <entry key="Soundtrecov 2.5/MainWindow.axaml" value="Soundtrecov 2.5/Soundtrecov 2.5.csproj" />
+        <entry key="Soundtrecov 2.5/RegistrationWindow.axaml" value="Soundtrecov 2.5/Soundtrecov 2.5.csproj" />
+        <entry key="Soundtrecov 2.5/UserWindow.axaml" value="Soundtrecov 2.5/Soundtrecov 2.5.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

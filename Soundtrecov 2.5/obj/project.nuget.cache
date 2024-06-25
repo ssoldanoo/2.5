@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "rE91pSq5dq0waZ/fB9tlGGmwprjIqMdsXjp0jLPMa/36UHYp6qGa17WnviUoyp9NWiXzdYQm6M4G0AbnbKGgMQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\famou\\OneDrive\\Рабочий стол\\Soundtrecov 2.5\\Soundtrecov 2.5\\Soundtrecov 2.5.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU5037",
+      "level": "Error",
+      "message": "The package is missing the required nuspec file. Path: C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.globalization\\4.3.0"
+    },
+    {
+      "code": "NU5037",
+      "level": "Error",
+      "message": "The package is missing the required nuspec file. Path: C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.interopservices\\4.3.0"
+    },
+    {
+      "code": "NU5037",
+      "level": "Error",
+      "message": "The package is missing the required nuspec file. Path: C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.threading\\4.3.0"
+    }
+  ]
+}
